@@ -1,0 +1,15 @@
+Edwin Rodriguez
+witch git
+wich git
+which git
+git config --global user.name "Edwin Rodriguez Suarez"
+git config --global user.email "chewinck7@gmail.com"
+~/.gitconfig
+cd ~/.ssh
+ssh-keygen -t rsa -C chewinck7@gmail.com
+xclip -sel clip <~/.ssh/id_rsa.pub
+ssh -T git@github.com
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCocAmhtd9IYqOeSC0eFcrdUIe8wNsBoOijzW65pE9l1R1bnb8csM2CnfzWj4mg4UBdYIrE75b0o9Dj3imcHCs+tydbSdbr6PCArVqNekJhxS0y7KQ19m/dIEhr3gTKtCjc82oJ552Wr1nUsxn+sGN59todgJUEQfCzFh5pob+/MBY/vTr5hPGbX1ZZl9aNHCQxX2L557R5Un22L/CtlvtPtjJEmHYdKrrfdEnpLGPMsMgIOF1MApUPrbG0a8eSw+6463ttvTJT3eLMu+HaBDgR2Y+9JIHq1ux1cxa3i/ddCtQOHgUKxoP9whjoWQQPRLuyi/FkEwBXVIs0IB2OJNiL0Un/KoNnIgS3U6aD7YM+hSs/6yMhN0xg1bhKkpyGAemOBOY7xbv1AnJgEmOn0n93Csu+9cgUnNE8tGLdi6ON/b636uwkYHhBV1w3fmBpirvoJyapKcVzQ2Yj6IQE7jO8j8IOrA+Rjy27kDlPFK3Hv97bY2xmLqThaP1Me1M0zQ8= chewinck7@gmail.com
+Hi chewinck! You've successfully authenticated, but GitHub does not provide shell access.
+
+history -w Edwin_Rodriguez_Suarez.txt
